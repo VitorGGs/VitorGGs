@@ -53,10 +53,6 @@ Desc
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lpmatos&show_icons=true" />
-</p>
-
 <p align="left">
   <a href="https://github.com/lpmatos/zoho-dynamic-chart">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpmatos&repo=zoho-dynamic-chart" />
