@@ -15,7 +15,7 @@
   </a>
 </p>
 
-Entusiasta, explorador e amante da cultura DevOps, desenvolvimento com Python, NodeJS, Shell Script, PowerShell e Ruby, automações e cloud. Atuo como Analista Cloud focado em ambientes de orquestração de containers, infraestrutura em cloud, construção de pipeline CI/CD para entrega de softwares e monitoramento de ambientes. Participo de projetos DevOps com CI/CD, Infra as Code e GitFlow, gerenciados por metodologias ágeis (Scrum e Kanban).
+Desc
 
 <img align="right" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="GIF"/>
 
@@ -23,9 +23,9 @@ Entusiasta, explorador e amante da cultura DevOps, desenvolvimento com Python, N
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" alt="GIF" width="50px"> Falando sobre mim..
 </h3>
 
-- 🔭 Atualmente estou trabalhando na Stefanini IT Solutions com Analista Cloud JR
-- 🌱 As tecnologias/ferramentas que estou aprendendo no momento são: GoLang, Terraform, Vagrant, Git branching models
-- 👯 Estou procurando colaborar em novas soluções e em projetos open-source
+- 🔭 Atualmente estou trabalhando
+- 🌱 As tecnologias/ferramentas que estou aprendendo no momento são: GoLang
+- 👯 Estou procurando 
 - 💬 Me pergunte sobre qualquer coisa que você quiser
 
 <br>
@@ -33,11 +33,6 @@ Entusiasta, explorador e amante da cultura DevOps, desenvolvimento com Python, N
 <h3>Tecnologias relevantes...</h3>
 
 <br>
-
-<p align="center">
-  <img align="center" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" alt="GIF" width="350" heigh="190"/>
-</p>
-
 <br>
 
 <p>
