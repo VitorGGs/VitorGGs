@@ -7,7 +7,7 @@
 </h3>
 
 - 🔭 Atualmente estou trabalhando como pesquisador em ciência de dados
-- 🌱 As tecnologias/ferramentas que estou aprendendo no momento são: 
+- 🌱 As tecnologias/ferramentas que estou aprendendo no momento são: django e Docker
 - 👯 Estou procurando vagas em desenvolvimento web 
 - 💬 Me pergunte sobre qualquer coisa que você quiser
 
@@ -20,7 +20,7 @@
 
 <p>
   <em>
-    Python como linguagem principal, Backend com Flask e Django, POO, Docker, Travis CI , Postgres/MySql, HTML, CSS, JavaScript, R na academia.
+    Python como linguagem principal, Backend com Flask e Django, POO, TDD, Docker, Feature Branch, Travis CI, Postgres/MySql, HTML, CSS, JavaScript, R na academia.
   <em>
 </p>
 
