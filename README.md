@@ -1,31 +1,14 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/> 👨‍💻! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" alt="GIF" width="50px"></h2>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/luccapessoa">
-    <img alt="Linkedin - /in/luccapessoa" src="https://img.icons8.com/ios/50/000000/linkedin.png" width="20px">
-  </a>
-  <a href="https://github.com/lpmatos">
-    <img alt="Github - /lpmatos" src="https://img.icons8.com/ios/50/000000/github.png" width="20px">
-  </a>
-  <a href="https://www.facebook.com/luccapessoa9">
-    <img alt="Facebook - /luccapessoa" src="https://img.icons8.com/ios/50/000000/facebook-new.png" width="20px">
-  </a>
-  <a href="https://www.instagram.com/luccapessoa/">
-    <img alt="Instagram - /luccapessoa" src="https://img.icons8.com/ios/50/000000/instagram-new.png" width="20px">
-  </a>
-</p>
-
-Desc
-
 <img align="right" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="GIF"/>
 
 <h3>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" alt="GIF" width="50px"> Falando sobre mim..
 </h3>
 
-- 🔭 Atualmente estou trabalhando
-- 🌱 As tecnologias/ferramentas que estou aprendendo no momento são: GoLang
-- 👯 Estou procurando 
+- 🔭 Atualmente estou trabalhando como pesquisador em ciência de dados
+- 🌱 As tecnologias/ferramentas que estou aprendendo no momento são: 
+- 👯 Estou procurando vagas em desenvolvimento web 
 - 💬 Me pergunte sobre qualquer coisa que você quiser
 
 <br>
@@ -37,31 +20,11 @@ Desc
 
 <p>
   <em>
-    Linguagens de Script (Python, Ruby, Shell Script, PowerShell), Backend com Python(Flask)/NodeJS(Express), POO, Docker, Rancher, Kubernetes, Cloud AWS/GCP, GitLab CI, GitHub Actions, Postgres/MySql/MariaDB, MongoDB/Redis/ArangoDB, ELK, Prometheus, Grafana, Terraform, RabbitMQ, Mosquitto.
+    Python como linguagem principal, Backend com Flask e Django, POO, Docker, Travis CI , Postgres/MySql, HTML, CSS, JavaScript, R na academia.
   <em>
 </p>
 
 <br>
-
-<p align="left">
-  <a href="https://github.com/lpmatos/twitter-realtime-processing-covid">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpmatos&repo=twitter-realtime-processing-covid" />
-  </a>
-
-  <a href="https://github.com/lpmatos/twitter-sentimental-analysis-covid">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpmatos&repo=twitter-sentimental-analysis-covid" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/lpmatos/zoho-dynamic-chart">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpmatos&repo=zoho-dynamic-chart" />
-  </a>
-
-  <a href="https://github.com/lpmatos/terraform-gitlab-variables">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lpmatos&repo=terraform-gitlab-variables" />
-  </a>
-</p>
 
 <p align="center">
   <img width=25% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" alt="GIF">
